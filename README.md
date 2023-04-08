@@ -26,13 +26,14 @@
 ##### 
 <br>
 --------
-#Installation
+<br>
+# Installation
 <br>
 NPM i Express,  Node, Mongoose, Nodemon
 <br>
 -------------------------------------------------------------------
 <br>
-#Usage
+# Usage
 <br>
 <br>
 
@@ -41,25 +42,27 @@ NPM i Express,  Node, Mongoose, Nodemon
 ![Get-Single-Users,Get-Single-Thoughts](https://github.com/ilknur2603/18-Social-Network-API/blob/main/assets/GET%20SINGLE%20USER%2C%20THOUGHT.gif)
 <br>
 ![Post-Put-Delete//Toughts](https://github.com/ilknur2603/18-Social-Network-API/blob/main/assets/POST%20PUT%20DELETE-Thought.gif)
-
 <br>
 ![Post-Put-Delete//Users](https://github.com/ilknur2603/18-Social-Network-API/blob/main/assets/POST%20PUT%20DELETE-USER.gif)
-  <br>
+ <br>
 ![Post-Put-Delete//Users](https://github.com/ilknur2603/18-Social-Network-API/blob/main/assets/POST%20PUT%20DELETE-USER.gif)
-   <br>
- ![Add-Friend, Delete Friend](https://github.com/ilknur2603/18-Social-Network-API/blob/main/assets/add%20friend%20and%20delete%20friend.gif)
-    <br>
+<br>
+![Add-Friend, Delete Friend](https://github.com/ilknur2603/18-Social-Network-API/blob/main/assets/add%20friend%20and%20delete%20friend.gif)
+<br>
 ![Add Reaction//Delete Reaction](https://github.com/ilknur2603/18-Social-Network-API/blob/main/assets/add%20reaction%20remove%20reaction.gif)
-     <br>
- ![Start Application](https://github.com/ilknur2603/18-Social-Network-API/blob/main/assets/start%20application.gif)
-     ****
-#License
+<br>
+![Start Application](https://github.com/ilknur2603/18-Social-Network-API/blob/main/assets/start%20application.gif)
+<br>
+****
+<br>
+# License
+<br>
 
-
-#Testing Instructions
+# Testing Instructions
+<br>
 I tested this project using MongoDB for database creation and my in-line terminal command of "node index.js"
 ---
-#User Story
+# User Story
 <br>
 Challenge is to build an API for a social network web application where users can share their thoughts,
 <br>react to friends’ thoughts, and create a friend list. 
@@ -70,7 +73,7 @@ Challenge is to build an API for a social network web application where users ca
 <br>
 ***
 <br>
-##Acceptance Criteria
+## Acceptance Criteria
 <br>
 GIVEN a social network API
 <br>
