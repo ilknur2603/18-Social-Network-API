@@ -55,7 +55,7 @@ NPM i Express,  Node, Mongoose, Nodemon
 <br>
 ![Start Application](https://github.com/ilknur2603/18-Social-Network-API/blob/main/assets/start%20application.gif)
 <br>
-****
+---------
 <br>
 # License
 <br>
@@ -65,7 +65,7 @@ NPM i Express,  Node, Mongoose, Nodemon
 I tested this project using MongoDB for database creation and my in-line terminal command of "node index.js"
 <br>
 <br>
----
+-------
 <br>
 # User Story
 <br>
@@ -76,7 +76,7 @@ Challenge is to build an API for a social network web application where users ca
 <br>and Mongoose packages, 
 <br>you may also optionally use a JavaScript date library of your choice or the native JavaScript `Date` object to format timestamps.
 <br>
-***
+--------
 <br>
 ## Acceptance Criteria
 <br>
@@ -100,7 +100,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 <br>
 <br>
 <br>
----
+-------
 <br>
 ![Questions](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 <br>
