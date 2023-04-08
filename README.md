@@ -62,7 +62,7 @@ NPM i Express,  Node, Mongoose, Nodemon
 <br>
 I tested this project using MongoDB for database creation and my in-line terminal command of "node index.js"
 <br>
-[!Mongodb](https://github.com/ilknur2603/18-Social-Network-API/blob/main/assets/mongodbss.png)
+![Mongodb](https://github.com/ilknur2603/18-Social-Network-API/blob/main/assets/mongodbss.png"mongo")
 <br>
 ---
 <br>
@@ -82,24 +82,21 @@ Challenge is to build an API for a social network web application where users ca
 GIVEN a social network API
 <br>
 WHEN I enter the command to invoke the application
-
 <br>
 THEN my server is started and the Mongoose models are synced to the MongoDB database
-
-<br>WHEN I open API GET routes in Insomnia for users and thoughts
-
-<br>THEN the data for each of these routes is displayed in a formatted JSON
-
-<br>WHEN I test API POST, PUT, and DELETE routes in Insomnia
-
-<br>THEN I am able to successfully create, update, and delete users and thoughts in my database
-
-<br>WHEN I test API POST and DELETE routes in Insomnia
-
-<br>THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
-
 <br>
-
+WHEN I open API GET routes in Insomnia for users and thoughts
+<br>
+THEN the data for each of these routes is displayed in a formatted JSON
+<br>
+WHEN I test API POST, PUT, and DELETE routes in Insomnia
+<br>
+THEN I am able to successfully create, update, and delete users and thoughts in my database
+<br>
+WHEN I test API POST and DELETE routes in Insomnia
+<br>
+THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
+<br>
 <br>
 <br>
 ---
@@ -116,7 +113,7 @@ THEN my server is started and the Mongoose models are synced to the MongoDB data
 ***
 <br>
 ![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/feed/?trk=404_page/
-<br>
+
 ***
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)   https://twitter.com/home/
 <br>
