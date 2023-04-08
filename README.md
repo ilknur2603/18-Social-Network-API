@@ -102,7 +102,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 <br>
 ---
 <br>
-<br>
+---
 ![Questions](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 <br>
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)      https://github.com/ilknur2603/
@@ -114,4 +114,3 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)   https://twitter.com/home/
 ***
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)         **ILKNUR DAYANC BLOOMER
-<br>
