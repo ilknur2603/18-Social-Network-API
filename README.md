@@ -62,7 +62,7 @@ NPM i Express,  Node, Mongoose, Nodemon
 <br>
 I tested this project using MongoDB for database creation and my in-line terminal command of "node index.js"
 <br>
-![Mongodb](https://github.com/ilknur2603/18-Social-Network-API/blob/main/assets/mongodbss.png)
+[!Mongodb](https://github.com/ilknur2603/18-Social-Network-API/blob/main/assets/mongodbss.png)
 <br>
 ---
 <br>
@@ -72,7 +72,7 @@ Challenge is to build an API for a social network web application where users ca
 <br>react to friends’ thoughts, and create a friend list. 
 <br>You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM.
 <br>In addition to using the [Express.js](https://www.npmjs.com/package/express)
-<br>and [Mongoose](https://www.npmjs.com/package/mongoose) packages, 
+<br>and Mongoose packages, 
 <br>you may also optionally use a JavaScript date library of your choice or the native JavaScript `Date` object to format timestamps.
 <br>
 ***
@@ -103,6 +103,7 @@ THEN my server is started and the Mongoose models are synced to the MongoDB data
 <br>
 <br>
 ---
+<br>
 <br>
 ![Questions](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 <br>
