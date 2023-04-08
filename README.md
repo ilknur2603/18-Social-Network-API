@@ -61,6 +61,8 @@ NPM i Express,  Node, Mongoose, Nodemon
 # Testing Instructions
 <br>
 I tested this project using MongoDB for database creation and my in-line terminal command of "node index.js"
+<br>
+[!Mongodb](https://github.com/ilknur2603/18-Social-Network-API/blob/main/assets/mongodbss.png)
 ---
 # User Story
 <br>
