@@ -55,7 +55,7 @@ NPM i Express,  Node, Mongoose, Nodemon
 <br>
 ![Start Application](https://github.com/ilknur2603/18-Social-Network-API/blob/main/assets/start%20application.gif)
 <br>
----------
+------------------------------
 <br>
 # License
 <br>
@@ -65,7 +65,7 @@ NPM i Express,  Node, Mongoose, Nodemon
 I tested this project using MongoDB for database creation and my in-line terminal command of "node index.js"
 <br>
 <br>
--------
+-------------------------------------
 <br>
 # User Story
 <br>
@@ -76,7 +76,7 @@ Challenge is to build an API for a social network web application where users ca
 <br>and Mongoose packages, 
 <br>you may also optionally use a JavaScript date library of your choice or the native JavaScript `Date` object to format timestamps.
 <br>
---------
+-------------------------------------------
 <br>
 ## Acceptance Criteria
 <br>
@@ -98,19 +98,17 @@ WHEN I test API POST and DELETE routes in Insomnia
 <br>
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 <br>
+---------------------------
 <br>
+![Questions] (https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 <br>
--------
+![GitHub] (https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)      https://github.com/ilknur2603/
 <br>
-![Questions](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+![E-mail] (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)        ilknurdayanc2603@gmail.com/
 <br>
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)      https://github.com/ilknur2603/
+![Linkedn] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/feed/?trk=404_page/
 <br>
-![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)        ilknurdayanc2603@gmail.com/
+![Twitter] (https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)   https://twitter.com/home/
 <br>
-![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/feed/?trk=404_page/
-<br>
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)   https://twitter.com/home/
-<br>
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)         **ILKNUR DAYANC BLOOMER
+![Slack] (https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)         **ILKNUR DAYANC BLOOMER
 ***
